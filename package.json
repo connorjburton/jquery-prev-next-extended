@@ -1,0 +1,35 @@
+{
+  "name": "jquery-prev-next-extended",
+  "version": "0.0.1",
+  "description": "Package to add a number argument to $.prev and $.next",
+  "main": "dist/jquery-prev-next-extended.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connorjburton/jquery-prev-next-extended.git"
+  },
+  "keywords": [
+    "next",
+    "prev",
+    "jquery",
+    "js",
+    "es6"
+  ],
+  "author": "Connor Burton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/connorjburton/jquery-prev-next-extended/issues"
+  },
+  "homepage": "https://github.com/connorjburton/jquery-prev-next-extended#readme",
+  "dependencies": {
+    "jquery": "^2.2.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "webpack": "^1.13.1"
+  }
+}
