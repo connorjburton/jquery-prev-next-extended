@@ -1,6 +1,6 @@
 {
   "name": "jquery-prev-next-extended",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Package to add a number argument to $.prev and $.next",
   "main": "dist/jquery-prev-next-extended.js",
   "scripts": {
