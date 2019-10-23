@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/connorjburton/jquery-prev-next-extended#readme",
   "dependencies": {
-    "jquery": "^2.2.3"
+    "jquery": "^3.4.1"
   },
   "devDependencies": {
     "babel-core": "^6.9.1",
